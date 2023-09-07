@@ -8,10 +8,10 @@ This project was graded <strong>125/100</strong>.
 
 ## 🧬 **Cloning**
 
-This repository uses a **git submodule**, a git repo nested in this one (the **libnc** folder). By default, cloning this repo will ignore the submodule, which comes out as an empty folder. To successfully clone both, use this command
+To successfully clone this repository, use this command
 
 ```shell
-git clone --recurse-submodules https://github.com/Nuno-Jesus/42_miniRT.git 
+git clone https://github.com/maricard18/42-miniRT.git 
 ```
 
 ## 📒 **About**
@@ -128,7 +128,8 @@ Bonus:
 
 This project was tested using self-made tests.
 
-## 📞 **Contact me**
-
-Feel free to ask me any questions through Slack (**ncarvalh**).
-
+---
+> Feel free to ask me any questions through Slack (**maricard**). <br>
+> GitHub [@maricard18](https://github.com/maricard18) &nbsp;&middot;&nbsp;
+> Linkedin [Mario Henriques](https://www.linkedin.com/in/mario18) &nbsp;&middot;&nbsp;
+> [42 Porto](https://www.42porto.com/en)
